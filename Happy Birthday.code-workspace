@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../c"
+		},
+		{
+			"path": "../../C++"
+		},
+		{
+			"path": "../../coding"
+		},
+		{
+			"path": "../../HTML"
+		},
+		{
+			"path": "../../Java Script"
+		},
+		{
+			"path": "../../python"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Happy Birthday"
+	}
+}
